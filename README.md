@@ -8,7 +8,7 @@
 ## Sumário
 - [Descrição](#descrição)
 - [Funcionalidades](#funcionalidades)
-- [Metodologia](docs/metodologia.md)
+- [Metodologia](0_docs/metodologia.md)
 - [Relatório do TCC](0_docs/relatorio.pdf)
 
 ## Descrição
