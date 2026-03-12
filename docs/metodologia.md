@@ -13,7 +13,7 @@ Adotamos uma abordagem **centrada no usuário** que combina:
 - Definição clara de requisitos (funcionais e não-funcionais);
 - Modelagem técnica (diagramas, ERD, DFD);
 - Design de interface e identidade visual;
-- Validação com stakeholders e testes de usabilidade (quando possível).
+- Validação com stakeholders e testes de usabilidade.
 
 O objetivo foi garantir rastreabilidade entre necessidades, requisitos, modelagem e design visual, entregando um conjunto de Anexos prontos para apresentação de TCC.
 
