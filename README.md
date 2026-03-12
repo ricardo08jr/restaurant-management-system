@@ -9,7 +9,7 @@
 - [Descrição](#descrição)
 - [Funcionalidades](#funcionalidades)
 - [Metodologia](docs/metodologia.md)
-- [Relatório do TCC](0_docs/relatorio.pdf)
+- [Relatório do TCC](docs/relatorio.pdf)
 
 ## Descrição
 Sistema de gerenciamento para restaurantes desenvolvido como projeto de conclusão de curso (TCC), com controle de estoque, comandas, gerenciamento de funcionários e estatísticas do negócio.
