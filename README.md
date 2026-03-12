@@ -1,5 +1,13 @@
 # restaurant-management-system
 ## 🇧🇷 Português
+
+## Sumário
+- [Descrição](#descrição)
+- [Funcionalidades](#funcionalidades)
+- [Metodologia](docs/metodologia.md)
+- [Relatório do TCC](0_docs/relatorio.pdf)
+
+## Descrição
 Sistema de gerenciamento para restaurantes desenvolvido como projeto de conclusão de curso (TCC), com controle de estoque, comandas, gerenciamento de funcionários e estatísticas do negócio.
 
 O foco do projeto é captar as empresas de médio a grande porte em crescimento, que carecem de um controle com maior eficiência, a fim de facilitar a dinâmica geral do estabelecimento, aumentar a produtividade e evitar o desperdício de mantimentos, que resulta além da perda física do estoque, também o déficit financeiro.
