@@ -7,10 +7,31 @@
 
 ## Sumário
 - [Descrição](#descrição)
-- [Metodologia](docs/metodologia.md)
+<details>
+<summary>Metodologia</summary>
+
+- [Visão geral da metodologia](metodologia.md#visão-geral-da-metodologia)
+- [Fases do processo (resumo)](metodologia.md#fases-do-processo-resumo)
+- [Análise de Similares](metodologia.md#análise-de-similares)
+- [Público-alvo](metodologia.md#público-alvo)
+- [Personas](metodologia.md#personas)
+- [Escopo](metodologia.md#escopo)
+- [Lista de requisitos e restrições](metodologia.md#lista-de-requisitos-e-restrições)
+- [Documentação técnica](metodologia.md#documentação-técnica)
+- [Lista de requisitos e funcionalidades](metodologia.md#lista-de-requisitos-e-funcionalidades)
+- [Descritivo de requisitos e funcionalidades](metodologia.md#descritivo-de-requisitos-e-funcionalidades)
+- [Lista de eventos](metodologia.md#lista-de-eventos)
+- [Diagrama de contexto](metodologia.md#diagrama-de-contexto)
+- [DFD nível 0](metodologia.md#dfd-nível-0)
+- [Mapa do site](metodologia.md#mapa-do-site)
+- [Modelo do Banco de Dados](metodologia.md#modelo-do-banco-de-dados)
+- [Guia de estilos](metodologia.md#guia-de-estilos)
+- [Design](metodologia.md#design)
+
+</details>
 - [Funcionalidades](#funcionalidades)
 - [Design](docs/design.md)
-- [Video de Demonstração](docs/design.md)
+- [Solução](docs/solucao.md)
 - [Relatório do TCC](docs/relatorio.pdf)
 
 ## Descrição
