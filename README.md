@@ -8,26 +8,25 @@
 ## Sumário
 - [Descrição](#descrição)
 <details>
-<summary>Metodologia</summary>
+ <summary>Metodologia</summary>
 
-- [Visão geral da metodologia](metodologia.md#visão-geral-da-metodologia)
-- [Fases do processo (resumo)](metodologia.md#fases-do-processo-resumo)
-- [Análise de Similares](metodologia.md#análise-de-similares)
-- [Público-alvo](metodologia.md#público-alvo)
-- [Personas](metodologia.md#personas)
-- [Escopo](metodologia.md#escopo)
-- [Lista de requisitos e restrições](metodologia.md#lista-de-requisitos-e-restrições)
-- [Documentação técnica](metodologia.md#documentação-técnica)
-- [Lista de requisitos e funcionalidades](metodologia.md#lista-de-requisitos-e-funcionalidades)
-- [Descritivo de requisitos e funcionalidades](metodologia.md#descritivo-de-requisitos-e-funcionalidades)
-- [Lista de eventos](metodologia.md#lista-de-eventos)
-- [Diagrama de contexto](metodologia.md#diagrama-de-contexto)
-- [DFD nível 0](metodologia.md#dfd-nível-0)
-- [Mapa do site](metodologia.md#mapa-do-site)
-- [Modelo do Banco de Dados](metodologia.md#modelo-do-banco-de-dados)
-- [Guia de estilos](metodologia.md#guia-de-estilos)
-- [Design](metodologia.md#design)
-
+- [Visão geral da metodologia](docs/metodologia.md#visão-geral-da-metodologia)
+- [Fases do processo (resumo)](docs/metodologia.md#fases-do-processo-resumo)
+- [Análise de Similares](docs/metodologia.md#análise-de-similares)
+- [Público-alvo](docs/metodologia.md#público-alvo)
+- [Personas](docs/metodologia.md#personas)
+- [Escopo](docs/metodologia.md#escopo)
+- [Lista de requisitos e restrições](docs/metodologia.md#lista-de-requisitos-e-restrições)
+- [Documentação técnica](docs/metodologia.md#documentação-técnica)
+- [Lista de requisitos e funcionalidades](docs/metodologia.md#lista-de-requisitos-e-funcionalidades)
+- [Descritivo de requisitos e funcionalidades](docs/metodologia.md#descritivo-de-requisitos-e-funcionalidades)
+- [Lista de eventos](docs/metodologia.md#lista-de-eventos)
+- [Diagrama de contexto](docs/metodologia.md#diagrama-de-contexto)
+- [DFD nível 0](docs/metodologia.md#dfd-nível-0)
+- [Mapa do site](docs/metodologia.md#mapa-do-site)
+- [Modelo do Banco de Dados](docs/metodologia.md#modelo-do-banco-de-dados)
+- [Guia de estilos](docs/metodologia.md#guia-de-estilos)
+- [Design](docs/metodologia.md#design)
 </details>
 
 - [Funcionalidades](#funcionalidades)
