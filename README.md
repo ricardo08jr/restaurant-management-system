@@ -7,8 +7,10 @@
 
 ## Sumário
 - [Descrição](#descrição)
-- [Funcionalidades](#funcionalidades)
 - [Metodologia](docs/metodologia.md)
+- [Funcionalidades](#funcionalidades)
+- [Design](docs/design.md)
+- [Video de Demonstração](docs/design.md)
 - [Relatório do TCC](docs/relatorio.pdf)
 
 ## Descrição
