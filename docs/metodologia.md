@@ -33,7 +33,7 @@ O objetivo foi garantir rastreabilidade entre necessidades, requisitos, modelage
 **Objetivo:** mapear concorrentes e soluções existentes.  
 **Método:** Para entender melhor a demanda e pontos a serem melhorados, foram selecionados três sistemas de gerenciamento já integrados e com influência no mercado atual (Consumer, Nex, Vhsys).  
 **Anexos:** `docs/analise_similares.md` — matriz comparativa, pontos fortes/fracos e oportunidades de diferenciação.
-[Análise de Similares](/analise_similares.md)
+[Análise de Similares](analise_similares.md)
 
 ---
 
