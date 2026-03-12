@@ -29,6 +29,7 @@
 - [Design](metodologia.md#design)
 
 </details>
+
 - [Funcionalidades](#funcionalidades)
 - [Design](docs/design.md)
 - [Solução](docs/solucao.md)
