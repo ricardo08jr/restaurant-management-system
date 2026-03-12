@@ -126,13 +126,3 @@ O objetivo foi garantir rastreabilidade entre necessidades, requisitos, modelage
 **Método:** do wireframe ao protótipo de média/alta fidelidade.  
 
 ---
-
-## Validação e métricas
-- **Avaliação heurística:** checklist de usabilidade aplicado por avaliadores.  
-- **Testes de usabilidade:** idealmente 5 usuários representativos, com tarefas cronometradas.  
-- **Métricas sugeridas:** tempo médio por tarefa, taxa de erro, SUS (System Usability Scale) e feedback qualitativo.  
-- **Relatório:** `relatorios/analise_ux.pdf`.
-
-
-
-## Onde colocar no repositório (exemplo prático)
