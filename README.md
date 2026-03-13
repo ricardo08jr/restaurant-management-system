@@ -1,4 +1,5 @@
 # restaurant-management-system
+![Tela de Estoque](design/sistema/webEstoque.jpg) 
 ## Choose Language / Escolha a Linguagem
 - [Português Brasileiro](#português)
 - [English](#english)
