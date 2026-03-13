@@ -105,7 +105,7 @@ O objetivo foi garantir rastreabilidade entre necessidades, requisitos, modelage
 ### 8. Diagrama de contexto (página 57)
 **Objetivo:** visão de alto nível dos atores e integrações externas.  
 **Método:** diagrama em ferramenta de desenho e export para PNG/SVG.  
-**Anexos:**  `diagrams/diagrama_contexto.png`.
+**Anexos:**  `diagrams/diagrama_contexto.png`.[Diagrama de Contexto](diagrama_contexto.md)
 
 ---
 
