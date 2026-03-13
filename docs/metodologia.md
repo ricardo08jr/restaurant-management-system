@@ -105,19 +105,19 @@ O objetivo foi garantir rastreabilidade entre necessidades, requisitos, modelage
 ### 8. Diagrama de contexto (página 57)
 **Objetivo:** visão de alto nível dos atores e integrações externas.  
 **Método:** diagrama em ferramenta de desenho e export para PNG/SVG.  
-**Anexos:**  `diagrams/diagrama_contexto.png`.
+**Anexos:**.[Diagrama de Contexto](diagrama_contexto.md)
 
 ---
 
 ### 9. DFD nível 0 (página 58)
 **Objetivo:** mapear processos principais e fluxos de dados.  
-**Anexos:** `diagrams/dfd_nivel0.png`.
+**Anexos:** .[DFD 0](dfd.md)
 
 ---
 
 ### 10. Mapa do site (página 62)
 **Objetivo:** organizar arquitetura de informação e rotas/telas do sistema.  
-**Anexo:** `diagrams/sitemap.png` .
+**Anexo:** .[Mapa do Site](mapa_site.md)
 
 ---
 
