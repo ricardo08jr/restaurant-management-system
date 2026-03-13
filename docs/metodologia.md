@@ -98,7 +98,7 @@ O objetivo foi garantir rastreabilidade entre necessidades, requisitos, modelage
 ### 7. Lista de eventos (página 52)
 **Objetivo:** identificar eventos/funcionalidades do sisttema.  
 **Método:** elicitação dos requisitos, sua descrição, estimulo, ação e resposta.  
-**Anexo:** `docs/lista_eventos.md` 
+**Anexo:** `docs/lista_eventos.md` [Lista de Eventos](lista_eventos.md)
 
 ---
 
