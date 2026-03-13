@@ -28,9 +28,9 @@
 - [Design](docs/metodologia.md#13-design-página-75)
 </details>
 
+- [Solução](#solucao)
 - [Funcionalidades](docs/funcionalidades.md)
 - [Design](design/design.md)
-- [Solução](docs/solucao.md)
 - [Relatório do TCC](docs/relatorio.pdf)
 
 ## Descrição
@@ -38,6 +38,9 @@ Sistema de gerenciamento para restaurantes desenvolvido como projeto de conclus�
 
 O foco do projeto é captar as empresas de médio a grande porte em crescimento, que carecem de um controle com maior eficiência, a fim de facilitar a dinâmica geral do estabelecimento, aumentar a produtividade e evitar o desperdício de mantimentos, que resulta além da perda física do estoque, também o déficit financeiro.
 
+## Solução
+ Para a constituição do projeto, foram utilizadas as linguagens de programação **C# ASP.net**, **Ionic Angular**, **JavaScript**, **TypeScript**, **MySQL WorkBench**, além das linguagens de marcação HTML 5 e CSS, para a construção e estruturação visual da interface e da ferramenta **Figma** para a criação do Design e Logotipo. 
+ 
 ## Design
 
 ### Web ASP Net Framework
