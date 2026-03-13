@@ -8,6 +8,6 @@ Para que essas empresas se tornem consumidoras diretas da solução proposta, é
 
 Assim, o público-alvo definido para o projeto são:
 
-![Público Alvo](publico_alvo.jpg)
+![Público Alvo](publico-alvo.jpg)
 
 Esse perfil foi definido com base na análise do mercado e nas características mais comuns encontradas em restaurantes que enfrentam desafios relacionados à gestão de estoque, organização operacional e controle de processos internos.
