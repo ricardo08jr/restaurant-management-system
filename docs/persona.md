@@ -6,14 +6,14 @@ Adentrando o público-alvo, foi pensado em três personas, usuários principais 
 
 
   <div style="width:50%;">
-    <img src="persona1.png" style="width:100%; height:100%; object-fit:cover;">
+    <img src="persona1.jpg" style="width:100%; height:100%; object-fit:cover;">
   </div>
 
   <div style="width:50%; display:flex; flex-direction:column; gap:10px;">
 
-    <img src="persona2.png" style="width:100%; height:50%; object-fit:cover;">
+  <img src="persona2.jpg" style="width:100%; height:50%; object-fit:cover;">
 
-    <img src="persona3.png" style="width:100%; height:50%; object-fit:cover;">
+  <img src="persona3.jpg" style="width:100%; height:50%; object-fit:cover;">
 
   </div>
 
