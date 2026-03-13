@@ -29,7 +29,7 @@
 </details>
 
 - [Funcionalidades](docs/funcionalidades.md)
-- [Design](docs/design.md)
+- [Design](design/design.md)
 - [Solução](docs/solucao.md)
 - [Relatório do TCC](docs/relatorio.pdf)
 
