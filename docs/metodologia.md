@@ -136,5 +136,5 @@ O objetivo foi garantir rastreabilidade entre necessidades, requisitos, modelage
 ### 13. Design (página 75)
 **Objetivo:** criar wireframes e mockups navegáveis.  
 **Método:** do wireframe ao protótipo de média/alta fidelidade.  
-
+[Design](../design/design.md)
 ---
