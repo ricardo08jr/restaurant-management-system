@@ -71,8 +71,8 @@ O objetivo foi garantir rastreabilidade entre necessidades, requisitos, modelage
 ---
 
 ### 4. Escopo (página 28)
-**Objetivo:** delimitar o MVP e funcionalidades prioritárias.  
-**Método:** workshop de priorização (MoSCoW).  
+**Objetivo:** Definir e apresentar o escopo do sistema, um software online voltado para a gestão de restaurantes, com foco principal no controle de estoque de insumos e gerenciamento de pedidos, visando melhorar a organização, acompanhamento e eficiência operacional do estabelecimento.  
+**Método:** Utilização do modelo Golden Circle, de Simon Sinek, para estruturar o projeto em três níveis de definição: por quê (motivo da criação do sistema), como (processos e estratégias para implementar a solução) e o quê (o produto final entregue).  
 **Anexo:** `docs/escopo.md` — lista de funcionalidades classificadas.
 
 ---
