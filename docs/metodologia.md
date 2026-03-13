@@ -59,8 +59,8 @@ O objetivo foi garantir rastreabilidade entre necessidades, requisitos, modelage
 ### 2. Público-alvo (página 23)
 **Objetivo:** definir o segmento prioritário (restaurantes médio/grandes em crescimento).  
 **Método:** análise documental e entrevistas/observação quando possível.  
-**Anexo:** `docs/publico_alvo.md` — perfil comercial e operacional, principais necessidades e restrições.
-[Público Alvo](publico_alvo.md)
+**Anexo:** `docs/publico_alvo.md` — perfil comercial e operacional, principais necessidades e restrições.[Público Alvo](publico_alvo.md)
+
 ---
 
 ### 3. Personas (página 24)
