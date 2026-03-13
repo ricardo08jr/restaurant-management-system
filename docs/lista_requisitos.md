@@ -1,238 +1,329 @@
-# Lista de Requisitos e Funcionalidades
+## **Lista de requisitos e funcionalidades**
 
-## WEB
+> *WEB*
+>
+> Gerenciamento de Restaurante
 
-### Gerenciamento de Restaurante
-- Cadastro do estabelecimento
-- CNPJ
-- Nome do Estabelecimento
-- Razão Social
-- Telefone de Contato
-- E-mail de Contato
-- Senha
-- Excluir estabelecimento
-- Editar informações do estabelecimento
+- Cadastro do estabelecimento;
 
----
+  - CNPJ;
 
-### Gerenciamento de Usuário
-- Cadastrar usuário
-- Nome do Usuário
-- Senha do Usuário
-- Incluir cargo
-- Consultar usuário
-- Excluir usuário
-- Editar usuário
-- Remover cargo
+  - Nome do Estabelecimento;
 
----
+  - Razão Social;
 
-### Gerenciamento de Cargo
-- Criar cargo
-- Nome do Cargo
-- Código do Cargo
-- Consultar cargo
-- Excluir cargo
-- Editar cargo
-- Permissões pré-definidas
-- Gerenciar permissões do cargo
+  - Telefone de Contato;
 
----
+  - E-mail de Contato;
 
-### Gerenciamento de Fornecedor
-- Cadastrar fornecedor
-- Nome do Fornecedor (empresa)
-- CNPJ/CPF do Fornecedor
-- Telefone do Fornecedor
-- E-mail do Fornecedor
-- Consultar fornecedor
-- Excluir fornecedor
-- Editar fornecedor
-- Controle de Insumo/Mercadoria
-- Adicionar Insumo/Mercadoria
-- Remover Insumo/Mercadoria
-- Avaliar fornecedor
+  - Senha;
 
----
+  - Excluir estabelecimento;
 
-### Gerenciamento de Insumo
-- Cadastrar Insumo
-- Nome do Insumo
-- Código do Insumo
-- Incluir Setor
-- Incluir Categoria
-- Estoque Mínimo
-- Estoque Máximo
-- Unidade de medida
-- Cadastrar Pedido automático
+  - Editar informações estabelecimento; Gerenciamento de Usuário
 
-#### Operações
-- Consultar Insumo
-- Editar Insumo
-- Excluir Insumo
+- Cadastrar usuário;
 
-#### Entrada de Insumo
-- Registrar entrada do Insumo
-- CNPJ/CPF do Fornecedor
-- Quantidade de Insumo
-- Código do Lote
-- Nome do Insumo
-- Validade do Lote
-- Data da Entrada
-- Preço do Insumo
-- Nome do Responsável
+  - Nome do Usuário;
 
-#### Retirada de Insumo
-- Registrar retirada
-- Quantidade
-- Nome do Insumo
-- Data de retirada
-- Responsável pela retirada
+  - Senha do Usuário;
 
-#### Colocar Insumo em Uso
-- Quantidade
-- Nome do Insumo
-- Data
-- Responsável
+  - Incluir cargo;
 
-#### Registrar Perda de Insumo
-- Nome do Insumo
-- Data da Perda
-- Causa da Perda
-- Quantidade
-- Descrição da Perda
+- Consultar usuário;
 
-#### Consumo Próprio
-- Quantidade
-- Nome do Insumo
-- Data
-- Responsável
-- Descrição
+- Excluir usuário;
 
----
+- Editar usuário;
 
-### Gerenciamento de Mercadoria
-- Cadastrar Mercadoria
-- Nome da Mercadoria
-- Código da Mercadoria
-- Incluir Setor
-- Incluir Categoria
-- Estoque Mínimo
-- Estoque Máximo
-- Editar Mercadoria
-- Excluir Mercadoria
+  - Incluir cargo;
 
-#### Entrada de Mercadoria
-- CNPJ/CPF do Fornecedor
-- Quantidade
-- Código do Lote
-- Nome da Mercadoria
-- Validade do Lote
-- Data da Entrada
-- Preço
-- Responsável
+  - Remover cargo; Gerenciamento de Cargo
 
-#### Venda / Retirada
-- Quantidade
-- Nome da Mercadoria
-- Data
-- Responsável
+- Criar cargo;
 
-#### Registrar Perda
-- Nome da Mercadoria
-- Data
-- Causa da Perda
-- Quantidade
-- Descrição
+  - Nome do Cargo;
 
-#### Consumo Próprio
-- Quantidade
-- Nome da Mercadoria
-- Data
-- Responsável
-- Descrição
+  - Código do Cargo;
 
----
+- Consultar Cargo;
 
-### Gerenciamento de Produto
-- Cadastro de Produto
-- Código do Produto
-- Nome do Produto
-- Registro da Ficha Técnica (obrigatório)
-- Preço do Produto
+- Excluir cargo;
 
-#### Operações
-- Consultar Produto
-- Editar Produto
-- Excluir Produto
+- Editar cargo;
 
-#### Ficha Técnica
-- Adicionar insumos
-- Editar insumos
-- Excluir insumos
+- Permissões pré-definidas;
 
-#### Venda
-- Registrar venda do produto
+- Gerenciar permissões do cargo; Gerenciamento de Fornecedor
 
----
+- Cadastrar fornecedor;
 
-### Gerenciamento de Registros
-- Consultar registros
-- Emissão de relatórios
+  - Nome do Fornecedor (empresa);
 
-#### Relatórios
-- Relatório de fornecedores
-- Relatório de entrada e saída (mercadoria ou insumo)
-- Relatório de estoque
-- Relatório de perdas
+  - CNPJ/CPF do Fornecedor;
 
----
+  - Telefone do Fornecedor;
 
-### Emissão de Gráficos (Estatísticas)
-- Gráfico de demanda
-- Venda de produtos
-- Insumos
-- Mercadorias
-- Gráfico de lucro das vendas
-- Gráfico de perdas
+  - E-mail do Fornecedor;
 
----
+- Consultar fornecedor;
 
-### Gerenciamento de Categoria
-- Cadastrar categoria
-- Código da categoria
-- Nome da categoria
-- Excluir categoria
-- Editar categoria
+- Excluir fornecedor;
 
----
+- Editar fornecedor;
 
-### Notificação de Estoque Mínimo
+- Controle de Insumo/Mercadoria;
+
+  - Adicionar Insumo/Mercadoria;
+
+  - Remover Insumo/Mercadoria;
+
+- Avaliar fornecedor; Gerenciamento de Insumo
+
+- Cadastrar Insumo;
+
+  - Nome do Insumo;
+
+  - Código do Insumo;
+
+  - Incluir Setor;
+
+  - Incluir Categoria;
+
+  - Estoque Mínimo;
+
+  - Estoque Máximo;
+
+  - Und. de medida;
+
+- Cadastrar Pedido automático;
+
+- Consultar Insumo;
+
+- Editar Insumo;
+
+- Excluir Insumo;
+
+- Registrar entrada do Insumo;
+
+  - CNPJ/CPF do Fornecedor do Insumo;
+
+  - Quantidade de Insumo;
+
+  - Código do Lote do Insumo;
+
+  - Nome do Insumo;
+
+  - Validade do Lote;
+
+  - Data da Entrada do Lote;
+
+  - Preço do Insumo;
+
+  - Nome do Responsável da Entrada (usuário);
+
+- Registrar retirada do Insumo;
+
+  - Quantidade do Insumo;
+
+  - Nome do Insumo;
+
+  - Data de retirada do Insumo;
+
+  - Nome do Responsável da Retirada (usuário);
+
+- Registrar em uso o Insumo ("colocar em uso");
+
+  - Quantidade do Insumo;
+
+  - Nome do Insumo;
+
+  - Data de retirada do Insumo;
+
+  - Nome do Responsável da Retirada (usuário);
+
+- Registrar perda de Insumo;
+
+  - Nome do Insumo;
+
+  - Data da Perda do Insumo;
+
+  - Causa da Perda do Insumo;
+
+  - Quantidade do Insumo;
+
+  - Descrição da Perda do Insumo;
+
+- Registrar consumo próprio de Insumo;
+
+  - Quantidade do Insumo;
+
+  - Nome do Insumo;
+
+  - Data de retirada do Insumo;
+
+  - Nome do Responsável da Retirada (usuário);
+
+  - Descrição do consumo; Gerenciamento de Mercadoria
+
+- Cadastrar Mercadoria;
+
+  - Nome da Mercadoria;
+
+  - Código da Mercadoria;
+
+  - Incluir Setor;
+
+  - Incluir Categoria;
+
+  - Estoque Mínimo;
+
+  - Estoque Máximo;
+
+- Editar Mercadoria;
+
+- Excluir Mercadoria;
+
+- Registrar entrada da Mercadoria;
+
+  - CNPJ/CPF do Fornecedor da Mercadoria;
+
+  - Quantidade de Mercadoria;
+
+  - Código do Lote da Mercadoria;
+
+  - Nome da Mercadoria;
+
+  - Validade do Lote da Mercadoria;
+
+  - Data da Entrada do Lote da Mercadoria;
+
+  - Preço da Mercadoria;
+
+  - Nome do Responsável da Entrada da Mercadoria (usuário);
+
+- Registrar venda (retirada) da Mercadoria;
+
+  - Quantidade da Mercadoria;
+
+  - Nome da Mercadoria;
+
+  - Data de retirada do Mercadoria;
+
+  - Nome do Responsável da Retirada da Mercadoria (usuário);
+
+- Registrar perda de Mercadoria;
+
+  - Nome da Mercadoria;
+
+  - Data da Perda da Mercadoria;
+
+  - Causa da Perda da Mercadoria;
+
+  - Quantidade da Mercadoria;
+
+  - Descrição da Perda da Mercadoria;
+
+- Registrar consumo próprio de Mercadoria;
+
+  - Quantidade da Mercadoria;
+
+  - Nome da Mercadoria;
+
+  - Data de retirada da Mercadoria;
+
+  - Nome do Responsável da Retirada da Mercadoria (usuário);
+
+  - Descrição do consumo; Gerenciamento de Produto
+
+- Cadastro de produto;
+
+  - Código do Produto;
+
+  - Nome do Produto;
+
+  - Registro da ficha técnica (obrigatório);
+
+  - Preço do Produto;
+
+- Consultar Produto;
+
+- Editar Produto;
+
+- Excluir Produto;
+
+- Registro ficha técnica produto;
+
+  - Adicionar insumos;
+
+  - Excluir insumos;
+
+  - Editar insumos;
+
+- Registrar venda (retirada) produto; Gerenciamento Registros
+
+- Consultar;
+
+- Emissão de relatórios;
+
+  - Relatório de fornecedores;
+
+  - Relatório de entrada e saída (mercadoria ou insumo);
+
+  - Relatório de Estoque;
+
+  - Relatório de Perdas; Emissão de Gráficos (Estatísticas)
+
+- Gráfico de demanda;
+
+  - Venda (produto);
+
+  - Insumo;
+
+  - Mercadoria;
+
+- Gráfico de lucro das vendas;
+
+- Gráfico de perdas; Gerenciamento de Categoria
+
+- Cadastrar Categoria;
+
+  - Código da Categoria;
+
+  - Nome da Categoria;
+
+- Excluir Categoria;
+
+- Editar Categoria; Notificação do Estoque Mínimo
+
 - Insumo
-- Encomendar insumo
+
+  - Encomendar Insumo
+
 - Mercadoria
-- Encomenda automática
 
----
+  - Encomenda Automática Notificação da Validade
 
-### Notificação de Validade
 - Insumo
-- Mercadoria
 
----
+- Mercadoria Controle caixa
 
-### Controle de Caixa
-- Consulta dos valores totais no período
-- Consulta dos pedidos do dia e anteriores
-- Abrir o dia
-- Fechar o dia
+- Consulto dos valores totais entrando no período;
 
----
+- Consulta dos pedidos do dia e anteriores;
 
-# APP
+- Abrir o dia;
 
-### Gerenciamento de Pedido
-- Adicionar pedido
-- Consultar pedidos
-- Consultar produtos
-- Fechar conta
+- Fechar o dia;
+
+> *APP*
+>
+> Gerenciamento do pedido
+
+- Adicionar;
+
+- Consultar pedidos;
+
+- Consultar produtos;
+
+- Fechar conta;
