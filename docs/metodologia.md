@@ -8,21 +8,21 @@
 ## Sumário
 - [Visão geral da metodologia](#visão-geral-da-metodologia)
 - [Fases do processo (resumo)](#fases-do-processo-resumo)
-- [Análise de Similares](#análise-de-similares-página-7)
-- [Público-alvo](#público-alvo-página-23)
-- [Personas](#personas-página-24)
-- [Escopo](#escopo-página-28)
-- [Lista de requisitos e restrições](#lista-de-requisitos-e-restrições-página-29)
+- [Análise de Similares](#1-análise-de-similares-página-7)
+- [Público-alvo](#2-público-alvo-página-23)
+- [Personas](#3-personas-página-24)
+- [Escopo](#4-escopo-página-28)
+- [Lista de requisitos e restrições](#5-lista-de-requisitos-e-restrições-página-29)
 - [Documentação técnica](#documentação-técnica-apartir-da-página-32)
-- [Lista de requisitos e funcionalidades](#lista-de-requisitos-e-funcionalidades-página-32)
-- [Descritivo de requisitos e funcionalidades](#descritivo-de-requisitos-e-funcionalidades-página-38)
-- [Lista de eventos](#lista-de-eventos-página-52)
-- [Diagrama de contexto](#diagrama-de-contexto-página-57)
-- [DFD nível 0](#dfd-nível-0-página-58)
-- [Mapa do site](#mapa-do-site-página-62)
-- [Modelo do Banco de Dados](#modelo-do-banco-de-dados-página-70)
-- [Guia de estilos](#guia-de-estilos-página-72)
-- [Design](#design-página-75)
+- [Lista de requisitos e funcionalidades](#6-lista-de-requisitos-e-funcionalidades-página-32)
+- [Descritivo de requisitos e funcionalidades](#7-descritivo-de-requisitos-e-funcionalidades-página-38)
+- [Lista de eventos](#8-lista-de-eventos-página-52)
+- [Diagrama de contexto](#9-diagrama-de-contexto-página-57)
+- [DFD nível 0](#10-dfd-nível-0-página-58)
+- [Mapa do site](#11-mapa-do-site-página-62)
+- [Modelo do Banco de Dados](#12-modelo-do-banco-de-dados-página-70)
+- [Guia de estilos](#13-guia-de-estilos-página-72)
+- [Design](#14-design-página-75)
 ---
 
 ## Visão geral da metodologia
@@ -90,51 +90,51 @@ O objetivo foi garantir rastreabilidade entre necessidades, requisitos, modelage
 
 ---
 
-### 8. Lista de requisitos e funcionalidades (página 32)
+### 6. Lista de requisitos e funcionalidades (página 32)
 **Observação:** versão estruturada e rastreável de requisitos (veja `docs/requisitos.md`).  
 **Formato recomendado:** tabela com vinculação para diagramas e casos de uso.
 
 ---
 
-### 9. Descritivo de requisitos e funcionalidades (página 38)
+### 7. Descritivo de requisitos e funcionalidades (página 38)
 **Objetivo:** detalhar cada requisito (pré-condição, fluxo principal, fluxos alternativos, pós-condição).  
 **Anexo:** `docs/descritivo_requisitos.md`.
 
 ---
 
-### 10. Lista de eventos (página 52)
+### 8. Lista de eventos (página 52)
 **Objetivo:** identificar eventos/funcionalidades do sisttema.  
 **Método:** elicitação dos requisitos, sua descrição, estimulo, ação e resposta.  
 **Anexo:** `docs/lista_eventos.md` 
 
 ---
 
-### 11. Diagrama de contexto (página 57)
+### 9. Diagrama de contexto (página 57)
 **Objetivo:** visão de alto nível dos atores e integrações externas.  
 **Método:** diagrama em ferramenta de desenho e export para PNG/SVG.  
 **Anexos:**  `diagrams/diagrama_contexto.png`.
 
 ---
 
-### 12. DFD nível 0 (página 58)
+### 10. DFD nível 0 (página 58)
 **Objetivo:** mapear processos principais e fluxos de dados.  
 **Anexos:** `diagrams/dfd_nivel0.png`.
 
 ---
 
-### 13. Mapa do site (página 62)
+### 11. Mapa do site (página 62)
 **Objetivo:** organizar arquitetura de informação e rotas/telas do sistema.  
 **Anexo:** `diagrams/sitemap.png` .
 
 ---
 
-### 14. Modelo do Banco de Dados (página 70)
+### 12. Modelo do Banco de Dados (página 70)
 **Objetivo:** modelar entidades, chaves e relacionamentos.  
 **Anexos:** `docs/modelo_bd.md` descrevendo tabelas e campos.
 
 ---
 
-### 16. Guia de estilos (página 72)
+### 13. Guia de estilos (página 72)
 **Objetivo:** padronizar tipografia, cores, espaçamentos e componentes.  
 **Anexo:** `design/guia_de_estilos.pdf` ou `design/guide.md` .
 
