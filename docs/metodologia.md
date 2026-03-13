@@ -66,7 +66,7 @@ O objetivo foi garantir rastreabilidade entre necessidades, requisitos, modelage
 ### 3. Personas (página 24)
 **Objetivo:** representar usuários centrais (Gerente, Garçom, Estoquista, Cozinha).  
 **Método:** criação de personas com objetivos, dores e jornadas.  
-**Anexo:** `docs/personas.md` — persona, cenário, tarefas críticas.
+**Anexo:** `docs/personas.md` — persona, cenário, tarefas críticas.[Persona](persona.md)
 
 ---
 
