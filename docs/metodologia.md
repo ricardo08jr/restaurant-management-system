@@ -111,7 +111,7 @@ O objetivo foi garantir rastreabilidade entre necessidades, requisitos, modelage
 
 ### 9. DFD nível 0 (página 58)
 **Objetivo:** mapear processos principais e fluxos de dados.  
-**Anexos:** `diagrams/dfd_nivel0.png`.
+**Anexos:** `diagrams/dfd_nivel0.png`.[DFD 0](dfd.md)
 
 ---
 
