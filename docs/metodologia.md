@@ -129,7 +129,7 @@ O objetivo foi garantir rastreabilidade entre necessidades, requisitos, modelage
 
 ### 12. Guia de estilos (página 72)
 **Objetivo:** padronizar tipografia, cores, espaçamentos e componentes.  
-**Anexo:** `design/guia_de_estilos.pdf` ou `design/guide.md` .
+**Anexo:** `design/guia.md` .[Guia](../design/guia.md)
 
 ---
 
