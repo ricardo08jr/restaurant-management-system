@@ -123,7 +123,7 @@ O objetivo foi garantir rastreabilidade entre necessidades, requisitos, modelage
 
 ### 11. Modelo do Banco de Dados (página 70)
 **Objetivo:** modelar entidades, chaves e relacionamentos.  
-**Anexos:** `docs/modelo_bd.md` descrevendo tabelas e campos.
+**Anexos:** `docs/modelo_bd.md` descrevendo tabelas e campos. [ERD](modelo_bd.md)
 
 ---
 
