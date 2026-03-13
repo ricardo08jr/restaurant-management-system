@@ -39,11 +39,10 @@ Sistema de gerenciamento para restaurantes desenvolvido como projeto de conclus�
 O foco do projeto é captar as empresas de médio a grande porte em crescimento, que carecem de um controle com maior eficiência, a fim de facilitar a dinâmica geral do estabelecimento, aumentar a produtividade e evitar o desperdício de mantimentos, que resulta além da perda física do estoque, também o déficit financeiro.
 
 ## Design
-## Design
 
 ### Web ASP Net Framework
 
-<details open>
+<details >
 <summary> Tela de Login</summary>
 
 ![Tela de Login](design/sistema/webLogin.jpg)
@@ -112,7 +111,7 @@ O foco do projeto é captar as empresas de médio a grande porte em crescimento,
 
 ### Aplicativo Mobile Ionic
 
-<details open>
+<details >
 <summary>Tela de Login</summary>
 
 ![Tela de Login](design/sistema/appLogin.png)
@@ -158,7 +157,7 @@ O foco do projeto é captar as empresas de médio a grande porte em crescimento,
 
 ### Cozinha ASP Net Framework
 
-<details open>
+<details>
 <summary>Tela de Pedidos</summary>
 
 ![Tela de Pedidos](design/sistema/cozinha1.jpg)
