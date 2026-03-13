@@ -91,8 +91,8 @@ O objetivo foi garantir rastreabilidade entre necessidades, requisitos, modelage
 ---
 
 ### 6. Lista de requisitos e funcionalidades (página 32)
-**Observação:** versão estruturada e rastreável de requisitos (veja `docs/requisitos.md`).  
-**Formato recomendado:** tabela com vinculação para diagramas e casos de uso.
+**Observação:** versão estruturada e rastreável de requisitos (veja `docs/lista_requisitos.md`).[Lista de Requisitos](lista_requisitos.md)  
+
 
 ---
 
