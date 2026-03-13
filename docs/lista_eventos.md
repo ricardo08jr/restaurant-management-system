@@ -1,7 +1,7 @@
 ## **1. Gerenciamento do Restaurante** {#gerenciamento-do-restaurante}
 
-**Descrição  
-** Dentro do sistema o dono poderá gerenciar o seu restaurante com as seguintes funcionalidades:
+### Descrição  
+**Dentro do sistema o dono poderá gerenciar o seu restaurante com as seguintes funcionalidades:**
 
 - Verificar cadastro do estabelecimento
 
@@ -35,8 +35,8 @@
 
 ## **2. Gerenciamento do Usuário** {#gerenciamento-do-usuário}
 
-**Descrição  
-** Dentro do sistema o estabelecimento poderá criar e gerenciar um cadastro para cada funcionário:
+### Descrição  
+**Dentro do sistema o estabelecimento poderá criar e gerenciar um cadastro para cada funcionário:**
 
 - Verificar usuário existente
 
@@ -66,8 +66,8 @@
 
 ## **3. Gerenciamento de Estoque** {#gerenciamento-de-estoque}
 
-**Descrição  
-** O estabelecimento poderá gerenciar todos os insumos e mercadorias no estoque com funcionalidades como:
+### Descrição  
+**O estabelecimento poderá gerenciar todos os insumos e mercadorias no estoque com funcionalidades como:**
 
 - Visualizar estoque (com filtros e nível)
 
@@ -113,8 +113,8 @@
 
 ## **4. Gerenciamento de Item** {#gerenciamento-de-item}
 
-**Descrição  
-** Página responsável pelo cadastro, exclusão e edição do item (que pode ser insumo ou mercadoria):
+### Descrição  
+**Página responsável pelo cadastro, exclusão e edição do item (que pode ser insumo ou mercadoria):**
 
 - Verificar item existente
 
@@ -158,8 +158,8 @@
 
 ## **5. Gerenciamento de Categoria** {#gerenciamento-de-categoria}
 
-**Descrição  
-** O estabelecimento poderá gerenciar categorias com as operações:
+### Descrição  
+**O estabelecimento poderá gerenciar categorias com as operações:**
 
 - Criar categoria
 
@@ -187,8 +187,8 @@
 
 ## **6. Gerenciamento de Unidade de Medida** {#gerenciamento-de-unidade-de-medida}
 
-**Descrição  
-** O estabelecimento poderá gerenciar unidades de medida:
+### Descrição  
+**O estabelecimento poderá gerenciar unidades de medida:**
 
 - Criar unidade de medida
 
@@ -216,8 +216,8 @@
 
 ## **7. Gerenciamento de Produtos** {#gerenciamento-de-produtos}
 
-**Descrição  
-** Gerenciar os produtos do cardápio:
+### Descrição  
+**Gerenciar os produtos do cardápio:**
 
 - Adicionar produto
 
@@ -251,8 +251,8 @@
 
 ## **8. Gerenciamento de Fornecedores** {#gerenciamento-de-fornecedores}
 
-**Descrição  
-** Gerenciar fornecedores do estabelecimento:
+### Descrição  
+**Gerenciar fornecedores do estabelecimento:**
 
 - Verificar fornecedor existente
 
@@ -286,8 +286,8 @@
 
 ## **9. Gerenciamento de Login** {#gerenciamento-de-login}
 
-**Descrição  
-** Controle de acesso dos funcionários ao sistema:
+### Descrição  
+**Controle de acesso dos funcionários ao sistema:**
 
 - Verificar login
 
@@ -317,8 +317,8 @@
 
 ## **10. Gerenciamento de Cargo** {#gerenciamento-de-cargo}
 
-**Descrição  
-** Gerenciamento de cargos e permissões:
+### Descrição  
+**Gerenciamento de cargos e permissões:**
 
 - Registrar cargo
 
@@ -348,8 +348,8 @@
 
 ## **11. Controle de Estatísticas** {#controle-de-estatísticas}
 
-**Descrição  
-** Visualização de gráficos do estabelecimento com base em: demanda, lucro das vendas e perdas.
+### Descrição  
+**Visualização de gráficos do estabelecimento com base em: demanda, lucro das vendas e perdas.**
 
 - Selecionar tema
 
@@ -377,8 +377,8 @@
 
 ## **12. Geração de Relatório** {#geração-de-relatório}
 
-**Descrição  
-** Geração de relatórios do estabelecimento (fornecedores, entradas e saídas, estoque, perdas):
+### Descrição  
+**Geração de relatórios do estabelecimento (fornecedores, entradas e saídas, estoque, perdas):**
 
 - Selecionar tema
 
@@ -429,8 +429,8 @@
 
 ## **14. Gerenciamento do Caixa** {#gerenciamento-do-caixa}
 
-**Descrição  
-** Integração do caixa com o app de pedidos do garçom; funcionalidades:
+### Descrição  
+**Integração do caixa com o app de pedidos do garçom; funcionalidades:**
 
 - Abrir o caixa
 
@@ -460,8 +460,8 @@
 
 ## **15. Controle de Pedidos** {#controle-de-pedidos}
 
-**Descrição  
-** Interação entre aplicativo do garçom e o caixa; funções disponíveis no app do garçom:
+### Descrição  
+**Interação entre aplicativo do garçom e o caixa; funções disponíveis no app do garçom:**
 
 - Localizar mesa
 
