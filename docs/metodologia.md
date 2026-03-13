@@ -80,7 +80,7 @@ O objetivo foi garantir rastreabilidade entre necessidades, requisitos, modelage
 ### 5. Lista de requisitos e restrições (página 29)
 **Objetivo:** registrar requisitos funcionais e não-funcionais e restrições (legais, infra).  
 **Método:** engenharia de requisitos com identificação e priorização.  
-**Anexo:** `docs/requisitos.md` 
+**Anexo:** `docs/requisitos.md` [Requisitos](requisitos.md)
 
 ---
 
