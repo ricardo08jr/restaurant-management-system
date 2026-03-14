@@ -28,7 +28,7 @@
 - [Design](docs/metodologia.md#13-design-página-75)
 </details>
 
-- [Solução](#solucao)
+- [Solução](#solução)
 - [Funcionalidades](docs/funcionalidades.md)
 - [Design](design/design.md)
 - [Relatório do TCC](docs/relatorio.pdf)
@@ -39,7 +39,20 @@ Sistema de gerenciamento para restaurantes desenvolvido como projeto de conclus�
 O foco do projeto é captar as empresas de médio a grande porte em crescimento, que carecem de um controle com maior eficiência, a fim de facilitar a dinâmica geral do estabelecimento, aumentar a produtividade e evitar o desperdício de mantimentos, que resulta além da perda física do estoque, também o déficit financeiro.
 
 ## Solução
- Para a constituição do projeto, foram utilizadas as linguagens de programação **C# ASP.net**, **Ionic Angular**, **JavaScript**, **TypeScript**, **MySQL WorkBench**, além das linguagens de marcação HTML 5 e CSS, para a construção e estruturação visual da interface e da ferramenta **Figma** para a criação do Design e Logotipo. 
+
+Para o desenvolvimento do projeto foram utilizadas diversas tecnologias, visando garantir eficiência, organização e uma boa experiência para o usuário. As linguagens de programação empregadas foram **C# com ASP.NET** no backend, **Ionic com Angular** para o desenvolvimento do aplicativo mobile, além de **JavaScript** e **TypeScript** para complementar a lógica e a interação das aplicações.
+
+Para a estrutura e estilização das interfaces, foram utilizadas as linguagens de marcação **HTML5** e **CSS**, garantindo uma apresentação visual organizada e responsiva. O gerenciamento do banco de dados foi realizado com **MySQL** por meio da ferramenta **MySQL Workbench**.
+
+Já o design das interfaces e a criação do logotipo foram desenvolvidos utilizando a ferramenta **Figma**, permitindo o planejamento visual e a prototipação das telas antes da implementação.
+
+O projeto foi dividido em **três sistemas principais**:
+
+- **Sistema Web de Gerenciamento do Restaurante** – responsável pela administração geral, cadastro e controle das informações.
+- **Aplicação Web para a Cozinha** – utilizada para o acompanhamento e controle dos pedidos realizados.
+- **Aplicativo Mobile** – destinado ao lançamento e registro de pedidos pelos atendentes.
+
+> **Vídeo demonstrativo:** será disponibilizado em breve.
  
 ## Design
 
