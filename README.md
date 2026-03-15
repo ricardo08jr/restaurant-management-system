@@ -52,7 +52,7 @@ O projeto foi dividido em **três sistemas principais**:
 - **Aplicação Web para a Cozinha** – utilizada para o acompanhamento e controle dos pedidos realizados.
 - **Aplicativo Mobile** – destinado ao lançamento e registro de pedidos pelos atendentes.
 
-> **Vídeo demonstrativo:** será disponibilizado em breve.
+[Link do vídeo](https://youtu.be/7jo9zVUW0-0)
  
 ## Design
 
